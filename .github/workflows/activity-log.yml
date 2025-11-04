@@ -18,12 +18,13 @@ jobs:
         with:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          README_PATH: README2.md
+          README_PATH: README.md
           COMMIT_MESSAGE: "chore(activity): auto-update activity log"
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(activity): auto-update README2.md"
-          file_pattern: README2.md
+          commit_message: "chore(activity): auto-update README.md"
+          file_pattern: README.md
+
 
