@@ -2,7 +2,6 @@
 
 Below updates automatically via GitHub Actions:
 
-<!-- ACTIVITY-LOG:START -->
+<!--ACTIVITY-LOG:START-->
 <!-- The action will replace this block with recent activity. -->
-<!-- ACTIVITY-LOG:END -->
-
+<!--ACTIVITY-LOG:END-->
