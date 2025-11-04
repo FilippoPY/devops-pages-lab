@@ -1,0 +1,29 @@
+name: Update Activity Log
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # ejecuta cada 12 horas
+  workflow_dispatch: {}       # permite ejecutarlo manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity block
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          username: ${{ github.repository_owner }}
+          readme_path: README2.md               # ← AQUÍ CAMBIASTE EL NOMBRE
+          start_marker: "<!-- ACTIVITY-LOG:START -->"
+          end_marker: "<!-- ACTIVITY-LOG:END -->"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(activity): auto-update activity log"
+          file_pattern: README2.md              # ← TAMBIÉN AQUÍ
