@@ -10,16 +10,16 @@
 Below updates automatically via GitHub Actions:
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/42f7ebbe012c9825d040a39f121ebd25dc5354b6)
-2. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/f101bb8734670d29370ec47afa32c9702724e271)
-3. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/140a3d60cc708e9bbb33d15ae3590753d3b80ca5)
-4. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/0d584cd09e527a45b3a07a42a378197adab40be1)
-5. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/d53e6244451eb1f4476acfb7953b7b3b0bdb8943)
-6. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/678062075f74a2926ee007bb0460ac1c7f2f9fab)
-7. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/0e1576bc4b7fe64bad4190a4d12fff0a1cba3b1b)
-8. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/c7d2bd351d1cedf06aa86dede1d4e1164935319c)
-9. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/0833c6e024b89c8fa6a4fb18789d3fa7142c5659)
-10. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/2d04a008c9113a0c7e6ae23ae4a42abad009f8a5)
+1. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/48239276c0426837a1567a3001ef16194cb2be65)
+2. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/29ea983a4c0d71f317c8f0b17044fc0d05af00df)
+3. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/456ceaf0580799f82b91d1ed59ae2ed52d568cf1)
+4. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/5f70bf8e4cba2b9166b037c9b6055407f94c6429)
+5. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/fb36258f15e8ce1e11a0bd24578b48b0dec9a25a)
+6. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/b4c2b2e54f592a6b533c219cfd2acb7d5ed24f9c)
+7. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/7901f6e52be56af70a5007ba63ae6813a88dd71e)
+8. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/5bcae4656766410519895c78c919f6ba90d9add9)
+9. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/359c219d532a2f39639580d25c67cefe7ae5bbd8)
+10. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/42f7ebbe012c9825d040a39f121ebd25dc5354b6)
 <!--END_SECTION:activity-->
 
 ---
