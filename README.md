@@ -15,11 +15,6 @@ Below updates automatically via GitHub Actions:
 3. 📝 Committed to [FilippoPY/devops-tarea10](https://github.com/FilippoPY/devops-tarea10/commit/4c28b2313f106e13c9398aa7ed398336e2b4233b)
 4. 📝 Committed to [FilippoPY/devops-tarea10](https://github.com/FilippoPY/devops-tarea10/commit/5839b364952bb7f8b9160099af3a4439b2ec1644)
 5. 🎉 Created a new branch [`main`](https://github.com/FilippoPY/devops-tarea10/tree/main) in [FilippoPY/devops-tarea10](https://github.com/FilippoPY/devops-tarea10)
-6. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/48239276c0426837a1567a3001ef16194cb2be65)
-7. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/29ea983a4c0d71f317c8f0b17044fc0d05af00df)
-8. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/456ceaf0580799f82b91d1ed59ae2ed52d568cf1)
-9. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/5f70bf8e4cba2b9166b037c9b6055407f94c6429)
-10. 📝 Committed to [FilippoPY/A9_OpenTelemetry](https://github.com/FilippoPY/A9_OpenTelemetry/commit/fb36258f15e8ce1e11a0bd24578b48b0dec9a25a)
 <!--END_SECTION:activity-->
 
 ---
